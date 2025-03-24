@@ -1,0 +1,7 @@
+creates test1.txt file
+// git clone *link*
+//cd DSA  :if we did that we can go into the DSA foalder
+// git status
+//git add test3.txt
+//git commit -m "test3.txt file added"
+// git push origin main
